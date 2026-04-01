@@ -8,7 +8,7 @@ import shutil
 from datetime import datetime
 
 # ============= CONFIG =============
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8651603740:AAHnNm3fldAmUZhr4SqTQ0B0HcaJp5rbQiU")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7062662204:AAHdQrKzWYaRgOeDFO5UfwZ2R5t4JKCX9Po")
 ADMIN_IDS = [int(os.environ.get("ADMIN_ID", "7971284841"))]
 MAX_BOTS_FREE = 5
 
